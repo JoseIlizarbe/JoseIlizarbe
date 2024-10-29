@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseIlizarbe/JoseIlizarbe/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseIlizarbe/JoseIlizarbe/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoseIlizarbe/JoseIlizarbe/output/github-contribution-grid-snake.svg">
+</picture>
+
 # 💫 About Me:
 - 🔭 I’m currently working on **Amazing Projects**<br><br>- 🌱 I’m currently learning **AI, Neural Networks and Frontend Tools, ...**<br><br>- 💬 Ask me about **Anything about develop**<br><br>- 📫 How to reach me **jose.ilizarbee@gmail.com**<br><br>- ⚡ Fun fact **I think i like cats a crocodiles**
 
@@ -8,9 +14,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 My Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseIlizarbe/JoseIlizarbe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseIlizarbe/JoseIlizarbe/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoseIlizarbe/JoseIlizarbe/output/github-contribution-grid-snake.svg">
-</picture>
